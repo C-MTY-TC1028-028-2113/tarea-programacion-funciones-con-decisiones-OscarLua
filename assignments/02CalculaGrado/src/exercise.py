@@ -19,5 +19,7 @@ def main():
     x = float(input("Ingresa Un valor entre 0.0 y 1.0: "))
     print(calcula_grado(x))
 
+#Resuelto
+
 if __name__=='__main__':
     main()
